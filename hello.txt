@@ -3,4 +3,4 @@
 学習内容：Rails基礎21（途中）
 コメント：
 AdminTEQをインストールしたが、よくわからなかったのでAdminLTEをインストール。
-JQueryが入ってなくてエラー出たので、結局AdminTEQで実装
+JQueryが入ってなくてエラー出たので、結局AdminTEQ
